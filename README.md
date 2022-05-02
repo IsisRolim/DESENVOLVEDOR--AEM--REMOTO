@@ -1,5 +1,5 @@
 # DESENVOLVEDOR--AEM--REMOTO
-NOSSA EMPRESA
+
  Gauge é uma venture do Grupo Stefanini e se define como grupo de mentes inquietas, que enxergam problemas como oportunidade para transformar o jogo e mudar percepções, adaptando aos desafios para criar experiências que importam. 
  
  😃Atuar em novos projetos e sustentação de sistemas legados; 
